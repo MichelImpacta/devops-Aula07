@@ -20,4 +20,7 @@ if erroInicializar:
   sys.exit(1)
 else:
   sys.exit(0)
+  
+  
+ #implementando novas funcionalidades ao jogo da velha.
  
