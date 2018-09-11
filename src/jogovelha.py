@@ -23,5 +23,5 @@ if __name__ == "__main__":
     main()
 
 if FunctionNew:
-   efetuarJogada = true
+   efetuarJogada = false
    funçãoNova()
