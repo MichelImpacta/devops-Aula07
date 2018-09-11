@@ -22,5 +22,5 @@ else:
   sys.exit(0)
   
   
- #implementando novas funcionalidades ao jogo da velha
+ #implementando novas funcionalidades ao jogo da velha.
  
